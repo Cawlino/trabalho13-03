@@ -1,0 +1,5 @@
+com\example\springboot\model\Livro.class
+com\example\springboot\SpringbootApplication.class
+com\example\springboot\repository\LivroRepository.class
+com\example\springboot\service\LivroService.class
+com\example\springboot\controller\LivroController.class
